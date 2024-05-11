@@ -1,4 +1,4 @@
-module github.com/ylighgh/yljenkins
+module github.com/ylighgh/gojenkins
 
 go 1.22.2
 
